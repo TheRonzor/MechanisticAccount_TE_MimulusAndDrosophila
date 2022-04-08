@@ -16,4 +16,4 @@ For Mimulus data:
 
 The author of this code, RD Smith, apologizes that part of the data processing is in MATLAB and the other part is in Python.  This project has been in the works for some time, during which, said author switched preferences.
 
-Please contact rdsmith@wm.edu with any questions related to this code.
+Please contact rdsmith@wm.edu with any questions related to this code. 
