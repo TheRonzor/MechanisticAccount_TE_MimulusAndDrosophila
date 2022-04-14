@@ -29,6 +29,7 @@ Below is a more detailed description of the files in each folder:
   - PlantNames.txt: The column labels for EstNum.csv (individial plant IDs)
   - TENameMap.csv: A list of TE family names, and which type of TE they are ("type" is one of: DNA, LTR, LINE, SINE. "paste" is one of: DNA, RNA)
   - MGut_TE_SummmaryByVVV.csv (where VVV is one of: Element, Family, Type, Paste).  These are the final output tables from MakeTESummaries_Mim.ipynb which are used throughout the manuscript.
+  - Genomes.m: A MATLAB class definition that is called by 'A_DoAnalysis.m' to process the CurrentData_v3.csv
 
 - Drosophila
   - Supp_table5.tsv: Supplement S5 from: Cridland, Julie M., et al. "Abundance and distribution of transposable elements in two Drosophila QTL mapping resources." Molecular biology and evolution 30.10 (2013): 2311-2327.  DOI: http://dx.doi.org/10.1093/molbev/mst129
